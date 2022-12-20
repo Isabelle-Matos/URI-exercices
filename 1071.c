@@ -5,10 +5,6 @@ int main(){
     int a, b, soma=0;
     scanf("%d %d", &a, &b);
     
-   
-       
-    
-        
            if(a>b){
 
             for(int i=b+1; i<a; i++){
